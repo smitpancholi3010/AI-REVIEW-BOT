@@ -1,0 +1,5 @@
+{
+  "diff": "---\na+baz = 123\n",
+  "full_file": "def foo():\n    return 'bar'\n\nbaz = 123\n",
+  "filename": "example.py"
+}
